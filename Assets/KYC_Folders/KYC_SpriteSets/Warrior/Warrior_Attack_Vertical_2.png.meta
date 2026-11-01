@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: cf602fa1719ac4d40ac1cfa0a79c42d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2117499762901650724
+    second: Warrior_Attack_Vertical_2_0
+  - first:
+      213: -748044954780919733
+    second: Warrior_Attack_Vertical_2_1
+  - first:
+      213: -1399568869130308504
+    second: Warrior_Attack_Vertical_2_2
+  - first:
+      213: -7841803028598219148
+    second: Warrior_Attack_Vertical_2_3
+  - first:
+      213: 846948813857855798
+    second: Warrior_Attack_Vertical_2_4
+  - first:
+      213: -6186232335597595294
+    second: Warrior_Attack_Vertical_2_5
+  - first:
+      213: -3314532261013631123
+    second: Warrior_Attack_Vertical_2_6
+  - first:
+      213: 1518977888726755061
+    second: Warrior_Attack_Vertical_2_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior_Attack_Vertical_2_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 542
+        width: 349
+        height: 427
+      alignment: 9
+      pivot: {x: 0.56269443, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d0abbb0ded26d10800000000000000
+      internalID: 2117499762901650724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_Vertical_2_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 542
+        width: 392
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5253713, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b489242b3196e95f0800000000000000
+      internalID: -748044954780919733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_Vertical_2_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 114
+        width: 378
+        height: 278
+      alignment: 9
+      pivot: {x: 0.56840897, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2659ba28776162aa0800000000000000
+      internalID: -6186232335597595294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_Vertical_2_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 104
+        width: 349
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5569948, y: -0.00000018117295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47395f8096b06d4eae75dcc6030853f
+      internalID: -1113060215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_Vertical_2_7
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 81
+        width: 298
+        height: 404
+      alignment: 9
+      pivot: {x: 0.60012305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c80a03549b185c4a9b89690cf5f1893
+      internalID: -1408959501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 06e19a543b5dd8c4da9eb812d1025c38
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Warrior_Attack_Vertical_2_0: 2117499762901650724
+      Warrior_Attack_Vertical_2_1: -748044954780919733
+      Warrior_Attack_Vertical_2_2: -1399568869130308504
+      Warrior_Attack_Vertical_2_3: -7841803028598219148
+      Warrior_Attack_Vertical_2_4: 846948813857855798
+      Warrior_Attack_Vertical_2_5: -6186232335597595294
+      Warrior_Attack_Vertical_2_6: -1113060215
+      Warrior_Attack_Vertical_2_7: -1408959501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

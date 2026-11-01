@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Ground
+  - Player Hit Detector
+  - HP
+  - CanDropPlatform
+  - PlayerAttack
+  - InteractionItem
+  - PlayerInterActionCollider
+  - EnemyHitbox
+  - Portal
+  - DeadZone
+  - HiddenPathEntrance
+  - CameraConfiner
+  - Wall
+  - NPC
+  - Potion
+  - Coin
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - PlayerHitDetector
+  - Interactable
+  - MapWall
+  - Background
+  - PlayerAttack
+  - EnemyAttack
+  - EnemyHurtBox
+  - PlayerFindDetector
+  - CanDropPlatform
+  - PlayerInterAction
+  - PickupItem
+  - Wall
+  - Portal
+  - FlyingEnemy
+  - DeadZone
+  - NPC
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3407876063
+    locked: 0
+  - name: Cloud
+    uniqueID: 3495344101
+    locked: 0
+  - name: Mountain
+    uniqueID: 1618719483
+    locked: 0
+  - name: Hidden Path
+    uniqueID: 753631019
+    locked: 0
+  - name: Ground
+    uniqueID: 3472749487
+    locked: 0
+  - name: Object
+    uniqueID: 2618535695
+    locked: 0
+  - name: Enemy
+    uniqueID: 3968551465
+    locked: 0
+  - name: Player
+    uniqueID: 1767792929
+    locked: 0
+  - name: Effect
+    uniqueID: 3108193525
+    locked: 0
+  - name: UI
+    uniqueID: 337303511
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []

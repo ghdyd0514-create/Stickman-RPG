@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 1ebfa2d981d1b2744b9343451c7d8097
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7741239701540538403
+    second: Warriot_Walk_2_0
+  - first:
+      213: -2871701499528130356
+    second: Warriot_Walk_2_1
+  - first:
+      213: 4547912646312436201
+    second: Warriot_Walk_2_2
+  - first:
+      213: -5369579119733795706
+    second: Warriot_Walk_2_3
+  - first:
+      213: 7224167559208588556
+    second: Warriot_Walk_2_4
+  - first:
+      213: 5073874310055724652
+    second: Warriot_Walk_2_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warriot_Walk_2_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 567
+        width: 356
+        height: 394
+      alignment: 9
+      pivot: {x: 0.6061609, y: 0.00019503366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32889736e786e6b60800000000000000
+      internalID: 7741239701540538403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warriot_Walk_2_1
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 560
+        width: 252
+        height: 401
+      alignment: 9
+      pivot: {x: 0.69733346, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc05bab73baa528d0800000000000000
+      internalID: -2871701499528130356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warriot_Walk_2_2
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 567
+        width: 327
+        height: 393
+      alignment: 9
+      pivot: {x: 0.61557555, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1a5f8b47e6d1f30800000000000000
+      internalID: 4547912646312436201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warriot_Walk_2_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 83
+        width: 332
+        height: 392
+      alignment: 9
+      pivot: {x: 0.6617659, y: -0.00000007785096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68499e66d3c6b75b0800000000000000
+      internalID: -5369579119733795706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warriot_Walk_2_4
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 82
+        width: 215
+        height: 396
+      alignment: 9
+      pivot: {x: 0.72204137, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05578cae16614460800000000000000
+      internalID: 7224167559208588556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warriot_Walk_2_5
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 89
+        width: 385
+        height: 384
+      alignment: 9
+      pivot: {x: 0.613664, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c660add6dc50a6640800000000000000
+      internalID: 5073874310055724652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0243362d658991b42b656cdb7d089b0d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Warriot_Walk_2_0: 7741239701540538403
+      Warriot_Walk_2_1: -2871701499528130356
+      Warriot_Walk_2_2: 4547912646312436201
+      Warriot_Walk_2_3: -5369579119733795706
+      Warriot_Walk_2_4: 7224167559208588556
+      Warriot_Walk_2_5: 5073874310055724652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

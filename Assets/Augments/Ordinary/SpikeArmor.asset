@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f081c399f9df4e84ba6a2755bd2d62e4, type: 3}
+  m_Name: SpikeArmor
+  m_EditorClassIdentifier: Assembly-CSharp::AugmentsData
+  ID: 5
+  augmentIcon: {fileID: -8396383883222620534, guid: 96f8e290bb70617459bec80ee9c24dc8, type: 3}
+  augmentName: "\uAC00\uC2DC \uAC11\uC637"
+  augmentDescription: "\uC801\uC5D0\uAC8C \uD53C\uD574\uB97C \uBC1B\uC73C\uBA74 \uC18C\uB7C9\uC758
+    \uB370\uBBF8\uC9C0\uB97C \uC900\uB2E4."
+  augmentGrade: 0
+  augmentTargetClass: 0
+  effectType: 4
+  value: 0
+  maximumAppear: 1
+  requiredAugment: {fileID: 0}

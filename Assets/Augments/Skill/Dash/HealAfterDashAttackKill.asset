@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f081c399f9df4e84ba6a2755bd2d62e4, type: 3}
+  m_Name: HealAfterDashAttackKill
+  m_EditorClassIdentifier: Assembly-CSharp::AugmentsData
+  ID: 7
+  augmentIcon: {fileID: 1531093824681466958, guid: 3aa2c411052b3c547bbdf4e14010b744, type: 3}
+  augmentName: "\uB3CC\uC9C4 \uC18C\uB9E4\uCE58\uAE30"
+  augmentDescription: "\uB3CC\uC9C4\uC73C\uB85C \uC801 \uCC98\uCE58\uC2DC HP\uB97C
+    \uD68C\uBCF5\uD55C\uB2E4"
+  augmentGrade: 0
+  augmentTargetClass: 0
+  effectType: 6
+  value: 5
+  maximumAppear: 1
+  requiredAugment: {fileID: 11400000, guid: e2503c73854977f4e8bf4b54c638fcf2, type: 2}

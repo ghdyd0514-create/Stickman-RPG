@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 3cd913754c5f61746b451477abbdf2a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3702654095681766069
+    second: Warrior_Die_0
+  - first:
+      213: -6669690942823978278
+    second: Warrior_Die_1
+  - first:
+      213: 8960045985586335732
+    second: Warrior_Die_2
+  - first:
+      213: -9037547174803509899
+    second: Warrior_Die_3
+  - first:
+      213: 972267945215925634
+    second: Warrior_Die_4
+  - first:
+      213: -4312634671565671698
+    second: Warrior_Die_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 155
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior_Die_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 467
+        height: 428
+      alignment: 9
+      pivot: {x: 0.6942355, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee27b439d917624c0800000000000000
+      internalID: -4312634671565671698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Die_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 110
+        width: 448
+        height: 312
+      alignment: 9
+      pivot: {x: 0.7788157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d9f0aaa43ee5540b40fdebb73c3648
+      internalID: -710720904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Die_16
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 63
+        width: 473
+        height: 217
+      alignment: 9
+      pivot: {x: 0.88983065, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c123ced825934d4194188ce07ae3732
+      internalID: 1239306680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Die_20
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 56
+        width: 530
+        height: 128
+      alignment: 9
+      pivot: {x: 0.8731561, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cfebc322c107847a2fbac1ac5c488a
+      internalID: 2044569403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5073d249e580024459bbc1fe3bc03808
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Warrior_Die_0: 3702654095681766069
+      Warrior_Die_1: -6669690942823978278
+      Warrior_Die_10: -710720904
+      Warrior_Die_11: 266496257
+      Warrior_Die_12: 340257983
+      Warrior_Die_13: 2071271291
+      Warrior_Die_14: -1704070579
+      Warrior_Die_15: -1252134035
+      Warrior_Die_16: 1239306680
+      Warrior_Die_17: -236373682
+      Warrior_Die_18: 1322297001
+      Warrior_Die_19: -1309061216
+      Warrior_Die_2: 8960045985586335732
+      Warrior_Die_20: 2044569403
+      Warrior_Die_21: 187449289
+      Warrior_Die_22: -2022384323
+      Warrior_Die_23: -707686317
+      Warrior_Die_24: -1734844456
+      Warrior_Die_25: -499789762
+      Warrior_Die_3: -9037547174803509899
+      Warrior_Die_4: 972267945215925634
+      Warrior_Die_5: -4312634671565671698
+      Warrior_Die_6: 865132239
+      Warrior_Die_7: 1387151087
+      Warrior_Die_8: 959610526
+      Warrior_Die_9: 1568882589
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

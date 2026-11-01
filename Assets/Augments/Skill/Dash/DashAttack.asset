@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f081c399f9df4e84ba6a2755bd2d62e4, type: 3}
+  m_Name: DashAttack
+  m_EditorClassIdentifier: Assembly-CSharp::AugmentsData
+  ID: 6
+  augmentIcon: {fileID: 1493490620287585913, guid: 531e38dde7e60114db250216bbf1e168, type: 3}
+  augmentName: "\uB3CC\uC9C4"
+  augmentDescription: "\uB300\uC26C\uB85C \uC801\uACFC \uBD80\uB52B\uD788\uBA74 \uB370\uBBF8\uC9C0\uB97C
+    \uC900\uB2E4. \uB2E8, \uBCF8\uC778\uB3C4 \uC790\uD574 \uB370\uBBF8\uC9C0\uB97C
+    \uBC1B\uB294\uB2E4.<br>\uB370\uBBF8\uC9C0\uB294 \uACF5\uACA9\uB825\uC758 300%. "
+  augmentGrade: 0
+  augmentTargetClass: 0
+  effectType: 5
+  value: 10
+  maximumAppear: 1
+  requiredAugment: {fileID: 0}

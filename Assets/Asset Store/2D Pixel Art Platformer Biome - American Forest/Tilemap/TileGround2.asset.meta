@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee8cc51f40b97bf42bc43520b57dd1ac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255694
+  packageName: 2D Pixel Art Platformer | Biome - American Forest
+  packageVersion: 1.0
+  assetPath: Assets/2D Pixel Art Platformer Biome - American Forest/Tilemap/TileGround2.asset
+  uploadId: 589276
